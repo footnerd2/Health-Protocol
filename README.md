@@ -9,8 +9,11 @@ Audio layer: 36 lessons (podcast) [available to public]
 
 Protocol layer: Notes, experiments, layer 2 content (stories + chats), layer 3 content (sources + resources - podcast, book, video, article)
 
-Pod size: dynamic, even number. 
+Pod size: start with 10, even number, dynamically adjust size over time once systems in place
 
-Application deadline: last day of each month (midnight EST)
+Application deadline*: first day of each month
+Enrolment fee deadline*: 21st day of each month
 
-Pods begin: 21st day of each month
+*to begin program 1st day of the following month
+
+Pods begin: 1st day of each month
