@@ -14,8 +14,9 @@ By now you've had some time with the material. You know us, Ruth & Nick.
 
 Let's dig in.
 
-Framework:
-------what is game theory? 
+
+------ What is game theory? 
+
 - why are we talking about it?
 - what does it have to do with taking responsibility for our health?
 
@@ -40,6 +41,27 @@ extra notes for Ruth:
 [Ruth asks Nick]: 
 - What does game theory have to do with our health and the systems giving care to our population of humans?
 
+[Nick]
+
+Charlie Munger has a great quote: "Show me the incentives and I'll show you the outcome"
+
+Humans are nudged by incentives whether they realize it or not
+
+We move away from things that cause us pain and towards things that reward or benefit us
+
+Game theory: the study of how agents interact to produce outcomes within a system of incentives
+
+Context: Understanding the system of incentives that influence our health
+
+As a physio I witnessed the broken game theory of sick-care (aka healthcare) firsthand
+
+Assumption: money is a powerful motivator for humans
+
+As a physical therapist, I'm incentivized to treat symptoms, not to help people solve their problems
+
+I make more money with someone coming to see me twice a week than I do from helping someone take responsibility which leads them to no longer require my services
+
+
 ----definition of game theory of health:
 [Nick]
 
@@ -48,8 +70,33 @@ ask NickyPoP to:
 identify and define the current players, the incentive, the rules of sick care system
 identify the possibilities for shifting the incentives to favor healthy living support and disease prevention
 
+Players:
+- Those who need help (individuals)
+- Those who provide help (providers)
+
+Current provider incentive: paid for service, not for results
+Improved provider incentive: paid for value (results), not for service
+
+Current individual incentive for health: none 
+Improved individual incentive: better health = pay less taxes
+
+Car insurance: rewarded for safe driving
+Health tax rebate: rewarded for good health
+
+Disease prevention happens at the individual level
+
+Effective diseases resolution happens at the provider level
+
+
+
 [Ruth's Question for Nick]
 - what role do you think we, as individuals, have in the game theory of sickcare? 
+
+Understanding it so we can work with effective providers that are compensated for results, not for service
+
+Seeing the problem so we can all vote for a better system with our dollars
+
+
 
 [Extra Notes from Ruth so Nick knows why I have the question above]
 - I was thingking we are players in the game, right?
@@ -67,6 +114,27 @@ in the game theory of health
 
 ----- outcomes follow incentives [Nick]
 
+Create a standard for measuring effectiveness (GHM)
+
+Global health metric: a validated, objective, reliable measurement used to assess macro health status. Completed by individuals in 60sec
+
+used to track outcomes
+
+Zero incentive to create this right now. System is rigged against things like this being funded
+
+
+GHM allows alignment of compensation with results (effectiveness)
+
+The health guide who sees someone for two visits and achieves a large improvement in someones GHM will be rewarded with more business and can charge more per visit
+
+Degree holders who see people for many visits with no measurable improvements in GHM will get less business
+
+Becomes profitable to be effective and unprofitable to be ineffective
+
+Feedback loops and tools provided to improve effectiveness
+
+Healh guides will only work with people who help themselves
+
 
 ----- sickcare system
 [Ruth] 
@@ -74,7 +142,18 @@ in the game theory of health
 - a system that waits until we become ill before it kicks into action
 [Nick]
 
+Waiting for your engine to explode before getting an oil change is silly
 
+Taking your car for an oil change and being turned away because your engine hasn't exploded yet is also silly
+
+We do this with medicine. If you aren't sick enough to warrant care, you're turned around until you're sick enough
+
+Why? Because all the system knows how to do it treat really sick people with temporary solutions. Zero health understanding
+
+
+A system that incentivizes sickness (unintentionally) results in everyone being sick. This is where we are today
+
+Administrators leech value from the system, costing both individuals and providers while providing no value
 
 
 ------ mis-aligned incentives 
@@ -139,6 +218,19 @@ Other things to note
 ------ creating a new health system with aligned incentives
 [Nick]
 
+At a high level this new system can be very simple:
+
+High quality, free, accessible information for individuals
+
+Method to validate health guide effectiveness (HGC)
+
+A digital marketplace that connects individuals with health guides
+
+Peer validated effectiveness with each interaction between guide and individual
+
+Reputational tracking to incentivize effectiveness. Better at helping people reclaim health = paid more per encounter
+
+
 [Ruth] 
 - our role as individuals is to take the initiative to understand the changing landscape of medicine systems
 - and how we as individuals choose to participate in the game
@@ -147,11 +239,18 @@ Other things to note
 ------ legacy medicine
 [Ruth]
 - definition of a legacy system:
-- referring to any given older outdated system that could be considered for replacement by something 
-that meets the current needs of  the organization
-[Nick expands]
+- referring to any given older outdated system that could be considered for replacement by something that meets the current needs of the organization
 
 
+[Nick]
+
+Legacy medicine has been co-opted by drug companies
+
+Institution of medicine is entrenched and unlikely to change 
+
+Create a reliable proxy for ability to help others so doctors can 
+
+Fundamental issue: artificial scarcity of doctors mis-prices their services, doctor rarely needed in absence of disease
 
 
 ------lesson 2.5 Experiments:
@@ -159,7 +258,11 @@ that meets the current needs of  the organization
 1. begin a discussion in your class Slack channel with your podmates about examples of game theory in general (example: rock, paper, scissors)
 2. turn the discussion to the game theory of health and unpack examples in your log and/or discuss with your learning partner to be sure you understand
 
-
+- Identify perverse incentives related to health in your life (ex: unhealthy food is cheap,abundant. Real food is scarce and expensive)
+- Suggest a way to realign incentives (ex: apply a health tax to ultra processed foods, use it to subsidize real food)
+- Identify perverse incentives related to healthcare
+- Discuss perverse incentives with a provider you know
+- Reflection: What is the ideal way to be paid as a Health Guide? discuss this with your pod, record a layer 2 discussion
 
 
 ------ Outro:
