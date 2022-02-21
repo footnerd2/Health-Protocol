@@ -1,7 +1,7 @@
 # HealthProtocol
 Commitment: 360 hours
 
-Objective: Reclaim full responsibility for one's health.
+Objective: Reclaim full responsibility for one's health
 
 Breakdown: 20% information, 60% experimentation, 20% reflection
 
@@ -11,7 +11,7 @@ Protocol layer: Notes, experiments, layer 2 content (stories + chats), layer 3 c
 
 Pod size: start with 10, even number, dynamically adjust size over time once systems in place
 
-Application deadline*: first day of each month
+Application deadline*: 14th day of each month
 Enrolment fee deadline*: 21st day of each month
 
 *to begin program 1st day of the following month
