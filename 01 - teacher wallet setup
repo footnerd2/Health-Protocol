@@ -1,0 +1,78 @@
+Hello Teachers
+
+Thank you for contributing your wisdom to this constantly adapting Health Procotol we are co-creating
+
+To compensate teachers for their work, we are using the Bitcoin network to send payments
+
+Below are instructions on how to setup Muun wallet on your mobile device so you can begin receiving payments
+
+We will begin using on chain addresses and progress to using lightning (more technical but better privacy and lower transaction fees) before the end of the year
+
+40% of Foot Nerd Experience (FNE) revenue is paid to teachers based on the number of lessons they are currently teaching
+
+This 40% allocation is called "teaching revenue" and is divided by 72 (36 lessons x 2 teachers per lesson)
+
+If you are currently teaching 1 lesson, you are entitled to 1/72 or 1.39% of the teaching revenue
+
+If you are currently teaching 4 lessons, you are entitled to 4/72 or 5,56% of the teaching revenue
+
+Payments will be made monthly on the 21st day (after 30 day holding period in case of refunds)
+
+Example: Payment deadline for April pod is March 21st, Payment made to teachers on April 21st
+
+-------
+
+Instructions:
+
+1) Look up "Muun Wallet" on the android or ios app store and download it
+
+2) Open Muun wallet
+
+3) Select "Create a new wallet"
+
+4) Create a pin code
+
+5) Confirm your pin code
+
+6) Click "let's go"
+
+7) Select "back up your wallet" from the screen to create a backup for your wallet
+
+8) Select option 1 (Back up your wallet)
+
+9) Select "I don't want to use my email"
+
+10) Select "I'm sure"
+
+11) Select option 2 (Create an alternative backup)
+
+12) Select "start"
+
+13) Write down your recovery code using pen and paper and store it somewhere safe. Do not share this with anyone and don't save it on your phone
+
+The code will look something like:
+
+LAJA  QQX7  KXWB  LPZR
+83VW  3255  UF57  3B8L
+
+14) Confirm your recovery code by re-typing it on your device
+
+15) Read and check off boxex, select "finish"
+
+16) Select "excellent"
+
+17) No need to create an emergency kit. Select "wallet" icon on the bottom left of the screen
+
+18) Select "receive"
+
+19) Select "skip" notifications
+
+20) Ensure toggle is set to "Bitcoin" (not "lightning")
+
+21) Copy the address and paste it in the teachers channel in Slack beside your name. Example:
+
+Nick St Louis - bc1qfjgnsy6w54rjpj6cpdr3gdml4kvpm5fvw7h45hne68qzer48krzs9rsq8e
+
+-------
+
+Thanks for being awesome. If you have any questions send me (Nick) a message on Slack
